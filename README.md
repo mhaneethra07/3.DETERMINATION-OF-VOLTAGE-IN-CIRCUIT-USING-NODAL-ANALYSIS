@@ -20,8 +20,10 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+![noton cd](https://github.com/user-attachments/assets/097f9831-9a8b-43f2-9e82-70873a3bfeb6)
+![nor calc](https://github.com/user-attachments/assets/242913c0-e147-4165-9b93-c6ae02e5fe0c)
+![ms](https://github.com/user-attachments/assets/5f94a626-c6fa-4318-a06f-6046e0d8e981)
 
- 
 **PROCEDURE:**
 
 1.	Give connections as per the circuit diagram.
